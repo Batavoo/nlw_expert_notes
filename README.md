@@ -12,6 +12,7 @@ Durante o desenvolvimento desse projeto, utilizei as seguintes tecnologias:
 - TypeScript
 - ReactJS
 - TailWindCSS
+- SpeechRecognition API
 
 Além das bibliotecas Radix e Sonner
 
